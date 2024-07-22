@@ -1,16 +1,17 @@
-## Hi there 👋
+### `Hi, there are my projects` 
+<br/>
 
-<!--
-**hosaruzu/hosaruzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `MVVM + Coordinator`
+- **<a href="https://github.com/hosaruzu/kodeapp">Kode: Adress book-like app</a>**
+### `VIPER`
+- **<a href="https://github.com/hosaruzu/viper-assignment">Avito test assignment</a>**
+### `MVP`
+- **<a href="https://github.com/hosaruzu/vk-internship-assignment">Weather app: VK internship assignment</a>**
+### `SWIFTUI`
 
-Here are some ideas to get you started:
+- [Work in progress] **<a href="https://github.com/hosaruzu/cryptos">Ctyptos: Cryptocurrencies portfolio app</a>**
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+- telegram: <a href="https://t.me/aatebenkov">@aatebenkov</a>
+- mail: artem.tebenkov@icloud.com

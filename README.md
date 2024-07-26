@@ -6,8 +6,8 @@
 ### `VIPER`
 - **<a href="https://github.com/hosaruzu/viper-assignment">Avito test assignment</a>**
 ### `SWIFTUI MVVM`
+- **<a href="https://github.com/hosaruzu/cryptos">Ctyptos: Cryptocurrencies portfolio app</a>**
 - **<a href="https://github.com/hosaruzu/swiftui-todo">Minimalistic To-do app with local persistency</a>**
-- [Work in progress] **<a href="https://github.com/hosaruzu/cryptos">Ctyptos: Cryptocurrencies portfolio app</a>**
 <br/>
 
 ## Contacts
